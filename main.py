@@ -1,4 +1,3 @@
-# main.py
 import os
 from Funciones import *
 from Inputs import validar_nombre
