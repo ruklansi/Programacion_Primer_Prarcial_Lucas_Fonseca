@@ -1,4 +1,3 @@
-# Inputs.py
 def validar_nombre() -> str:
     """
     Solicita un nombre, valida que tenga al menos 3 caracteres y contenga solo letras y espacios.
