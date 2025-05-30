@@ -23,6 +23,10 @@ while True:
     print("12. Participantes ordenados alfabéticamente")
     print("13. Salir")
     
+    # opcion = input("Seleccione una opción (1-13): ")
+    # while opcion < 1 or opcion > 13:
+    #     print("Error: Opción inválida. Debe ser un número entre 1 y 13.")
+    #     opcion = input("Reingrese su opción (1-13): ")
     try:
         opcion = int(input("Su opción (1-13): "))
         if opcion < 1 or opcion > 13:
